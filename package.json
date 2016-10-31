@@ -1,0 +1,22 @@
+{
+  "name": "node-red-node-uppercase",
+  "version": "0.0.1",
+  "description": "simple node that converts the message payloads into all uppercase characters",
+  "main": "uppercase.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pmvester/node-red-node-uppercase"
+  },
+  "keywords": [
+    "uppercase",
+    "nodered"
+  ],
+  "author": "Mikael Vester",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pmvester/node-red-node-uppercase/issues"
+  }
+}
