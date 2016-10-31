@@ -18,6 +18,8 @@
       "uppercase": "uppercase.js"
     }
   },
+  "dependencies": {
+  },
   "author": "Mikael Vester",
   "license": "ISC",
   "bugs": {
