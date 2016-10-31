@@ -11,6 +11,7 @@
     "url": "https://github.com/pmvester/node-red-contrib-uppercase"
   },
   "keywords": [
+    "node-red",
     "uppercase"
   ],
   "node-red": {
