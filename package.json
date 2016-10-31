@@ -13,6 +13,11 @@
   "keywords": [
     "uppercase"
   ],
+  "node-red": {
+    "nodes:": {
+      "uppercase": "uppercase.js"
+    }
+  },
   "author": "Mikael Vester",
   "license": "ISC",
   "bugs": {
