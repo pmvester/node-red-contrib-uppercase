@@ -14,7 +14,7 @@
     "uppercase"
   ],
   "node-red": {
-    "nodes:": {
+    "nodes": {
       "uppercase": "uppercase.js"
     }
   },
