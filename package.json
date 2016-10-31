@@ -1,6 +1,6 @@
 {
   "name": "node-red-contrib-uppercase",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A simple node that converts the message payloads into all uppercase characters",
   "main": "uppercase.js",
   "scripts": {
@@ -18,8 +18,7 @@
       "uppercase": "uppercase.js"
     }
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "author": "Mikael Vester",
   "license": "ISC",
   "bugs": {
